@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import Banner from './components/Banner/banner'
 import Form from './components/Form/Form'
 import Positions from './components/Positions/Positions'
 import Footer from './components/Footer/Footer'
+import Banner from './components/Banner/banner'
 
 function App() {
 
