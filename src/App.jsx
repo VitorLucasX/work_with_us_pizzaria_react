@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Form from './components/Form/Form'
 import Positions from './components/Positions/Positions'
 import Footer from './components/Footer/Footer'
-import Banner from './components/Banner/banner'
+import Banner from './components/Banner/Banner'
 
 function App() {
 
